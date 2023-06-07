@@ -1,3 +1,4 @@
+questions,answer
 "Valeu!
 não, obrigada
 não, obrigado
@@ -107,7 +108,7 @@ entendido
 esclarecido
 e isso ai
 é isso aí
-acabei";"A Receita Federal agradece a sua visita. Conte conosco quando precisar de mais informações!"
+acabei","A Receita Federal agradece a sua visita. Conte conosco quando precisar de mais informações!"
 "O número de rastreamento da mercadoria é
 Status da mercadoria 
 Aonde encontro informação de onde está a minha remessa?
@@ -371,7 +372,7 @@ eu gostaria de saber por gentileza se a remessa já foi despachada para o endere
 eu gostaria de saber por gentileza se a remessa ja foi despachada para o endereco
 pegaram a mercadoria e não dão uma posição
 pegaram a mercadoria e nao dao uma posicao
-qual o localizador";"Após a chegada ao país, é responsabilidade da empresa transportadora informar a localização e situação da encomenda. Informações sobre o andamento de entregas devem ser tratadas diretamente com a empresa contratada. 
+qual o localizador","Após a chegada ao país, é responsabilidade da empresa transportadora informar a localização e situação da encomenda. Informações sobre o andamento de entregas devem ser tratadas diretamente com a empresa contratada. 
 
 Para obter informações sobre a entrega de sua encomenda, você vai precisar do código de rastreamento. 
 
@@ -444,7 +445,7 @@ Preciso saber como retirar a minha encomenda que esta na Alfandega.
 Quero retirar uma encomenda que esta parada ai, como faco? 
 quando posso ir ate ai para pegar a minha caixa?
 em que endereco posso buscar o meu pacote?
-encomenda aguardando retirada";"A encomenda internacional é um transporte "porta-a-porta", ou seja, o frete contratado já inclui o despacho aduaneiro e a entrega da encomenda no endereço apontado nos documentos de importação. Dessa maneira, a transportadora é responsável por todo o processo até a entrega. Exceções à regra devem ser tratadas diretamente com a transportadora.
+encomenda aguardando retirada","A encomenda internacional é um transporte "porta-a-porta", ou seja, o frete contratado já inclui o despacho aduaneiro e a entrega da encomenda no endereço apontado nos documentos de importação. Dessa maneira, a transportadora é responsável por todo o processo até a entrega. Exceções à regra devem ser tratadas diretamente com a transportadora.
 
 Você deverá acompanhar o andamento da sua encomenda <a href='http://www2.correios.com.br/SISTEMAS/RASTREAMENTO/' target='_blank' >consultando o rastreamento no site dos Correios</a> ou da empresa transportadora contratada. -
 
@@ -564,7 +565,7 @@ Tenho uma encomenda de sob o registro postal. Consta que a mesma foi retida e se
 Venceu o prazo mas quero pagar os R15 e receber meu pacote.
 Venceu o prazo mas quero pagar os R$15 e receber meu pacote.
 Como reiniciar o desembaraço?
-alguma possibilidade de ainda resgatar a minha caixa?";"Não será possível pedir a retomada de despacho se:
+alguma possibilidade de ainda resgatar a minha caixa?","Não será possível pedir a retomada de despacho se:
 
 • a fiscalização foi concluí­da e os tributos não foram pagos;
 • algum órgão fiscalizador negou a entrada da mercadoria no país;
@@ -769,7 +770,7 @@ tenho uma empresa, posso importar pelos correios?
 Quero fazer uma denuncia contra o fiscal que segurou minha compra
 quero fazer um agendamento
 posso comparecer a qualquer unidade para resolver o problema da minha encomenda?
-quero marcar uma reuniao com o fiscal que nao liberou minha caixa";"A responsabilidade pelo atendimento sobre encomendas internacionais é da empresa transportadora. Através dos canais de atendimento abaixo, verifique informações sobre o andamento de entregas, dúvidas sobre procedimentos ou encaminhamento de eventuais documentos necessários para liberação das encomendas.
+quero marcar uma reuniao com o fiscal que nao liberou minha caixa","A responsabilidade pelo atendimento sobre encomendas internacionais é da empresa transportadora. Através dos canais de atendimento abaixo, verifique informações sobre o andamento de entregas, dúvidas sobre procedimentos ou encaminhamento de eventuais documentos necessários para liberação das encomendas.
 
 Se a sua encomenda veio pelos Correios clique <a href='https://www.correios.com.br/falecomoscorreios/central-de-atendimento' target='_blank' >aqui</a>.
 
@@ -916,7 +917,7 @@ demanda de retorno de encomenda
 O código de rastreio dessa devolução será disponibilizado pelo portal dos correios?
 O codigo de rastreio dessa devolucao sera disponibilizado pelo portal dos correios
 Objeto devolvido ao país de origem
-Objeto devolvido ao pais de origem";"Na maioria dos casos, o pedido da devolução é realizado pela transportadora por falta de pagamento do imposto/tarifa postal.
+Objeto devolvido ao pais de origem","Na maioria dos casos, o pedido da devolução é realizado pela transportadora por falta de pagamento do imposto/tarifa postal.
 
 A encomenda será devolvida ao país de origem por determinação da Receita Federal nos seguintes casos:
 
@@ -1035,7 +1036,7 @@ Quero orientacao para exportar pelos Correios
 Se o meu pacote nao for autorizado a sair do pais vou receber de volta
 Serei taxado se enviar um presente para um amigo que mora em outro pais
 preciso de ajuda para exportar
-como fazer uma exportacao";"Informações gerais sobre exportação de encomendas podem ser obtidas nos sites abaixo:
+como fazer uma exportacao","Informações gerais sobre exportação de encomendas podem ser obtidas nos sites abaixo:
 
 • <a href='https://www.correios.com.br/enviar/encomendas/internacional' target='_blank' >Envio de encomenda postal internacional - Correios</a>;
 • <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/empresas-autorizadas-a-operar-na-modalidade-remessa-expressa' >Transportadoras privadas de transporte expresso autorizadas pela Receita</a>; ou
@@ -1220,7 +1221,7 @@ quais os custos de receber uma encomenda
 quero saber de tudo o que vou ter que pagar para saber se vale a pena importar
 a Receita pode me cobrar isso
 pode haver cobranca na chegada da caixa ao pais
-cobranca na importacao";"A maior parte das encomendas internacionais de importação segue o Regime de Tributação Simplificada (RTS). Nesse regime é cobrado:
+cobranca na importacao","A maior parte das encomendas internacionais de importação segue o Regime de Tributação Simplificada (RTS). Nesse regime é cobrado:
 
 • Imposto de Importação: alíquota de 60% (Receita Federal);
 • ICMS - Imposto Sobre Circulação de Mercadorias e Prestação de Serviços (alíquota varia conforme a legislação de cada Estado);
@@ -1302,7 +1303,7 @@ Recebi uma cobranca de despacho postal
 Tambem tenho que pagar aos Correios? Nao e so pra Receita?
 o que são esses 15 reais?
 o que sao esses 15 reais?
-15 reais?";"O Despacho Postal de R$ 15,00 será cobrado pelos Correios pela prestação de serviços.
+15 reais?","O Despacho Postal de R$ 15,00 será cobrado pelos Correios pela prestação de serviços.
 
 Todas as encomendas recebidas no Brasil, independentemente de serem tributadas ou não, estão sujeitas à cobrança deste serviço. O pagamento deve ser realizado na <a href='https://correios-sedex.com/enviar-e-receber/importacao/ambiente-minhas-importacoes.html' >Plataforma Minhas Importações, dos Correios</a>.
 
@@ -1453,7 +1454,7 @@ como e calculado o imposto de importacao de remessa expressa
 como se faz a conta de quanto vou pagar de taxa?
 Qual a formula para calcular imposto
 Preciso tirar duvida de quanto vai custar com imposto
-Qual o calculo do imposto?";"Na importação, é cobrado 60% de Imposto de Importação sobre a soma do valor dos bens + frete + seguro.
+Qual o calculo do imposto?","Na importação, é cobrado 60% de Imposto de Importação sobre a soma do valor dos bens + frete + seguro.
 
 O valor dos bens pode ser:
 
@@ -1556,7 +1557,7 @@ Voces estao cobrando a multa mas nao tive culpa Comprei no Ali Express e o forne
 pq a multa
 Voces estao cobrando a multa mas nao tive culpa. 
 Vou ter que pagar a multa Não tive culpa se o produto foi enviado com um valor menor do que paguei
-Vou ter que pagar multa ";"Multas podem ser cobradas quando:
+Vou ter que pagar multa ","Multas podem ser cobradas quando:
 
 • existir diferença entre o valor declarado pelo remetente e o valor real ou estipulado pela Receita;
 • faltar declaração de valor ou a declaração estiver incorreta;
@@ -1741,7 +1742,7 @@ Se o imposto nao for pago dentro do prazo, perco o produto que importei?
 Vou perder minha encomenda se eu nao pagar esse imposto abusivo?
 Nao pude pagar as taxas que me foram cobradas no prazo. E agora ? 
 nao estou conseguindo pagar o imposto pelo minhas importacoes, tem outra forma de pagar?
-Sou humilde e nao tenho como pagar";"Se ao consultar sua encomenda, você recebeu mensagem sobre pendência de pagamento de impostos, significa que a fiscalização já terminou, mas a entrega da encomenda depende do pagamento. 
+Sou humilde e nao tenho como pagar","Se ao consultar sua encomenda, você recebeu mensagem sobre pendência de pagamento de impostos, significa que a fiscalização já terminou, mas a entrega da encomenda depende do pagamento. 
 
 A encomenda pode ser devolvida ao país de origem ou declarada abandonada se o pagamento do imposto não for realizado dentro de:
 
@@ -1837,7 +1838,7 @@ O vendedor garantiu que não tinha que pagar imposto
 O valor que paguei no site da Ali Express ja tem o imposto junto?
 Onde verifico se ja estou pagando os impostos no valor do produto?
 Paguei o imposto no momento da compra e estao cobrando novamente
-Terei que pagar valor adicional alem do que ja paguei no site do produto que importei?";"Você deve se informar com o remetente sobre o que está incluído no valor que já foi pago ou a pagar.
+Terei que pagar valor adicional alem do que ja paguei no site do produto que importei?","Você deve se informar com o remetente sobre o que está incluído no valor que já foi pago ou a pagar.
 
 Verifique isso também com os Correios ou empresa de courier contratada.
 
@@ -1930,7 +1931,7 @@ Produto em promocao, o imposto tambem e descontado?
 Recebi uma oferta para adquirir um produto com desconto, se tiver imposto sera considerado somente o valor que paguei?
 Tive desconto no preco que paguei no site. Terei desconto no imposto tambem?
 Usei milhas do cartao entao nao paguei pelo produto, ainda vao me cobrar imposto?
-Usei um cupom de desconto na minha compra, o imposto cobrado e sobre o valor descontado?";"Se você fez uma compra com desconto, e esse desconto for incondicional e válido para qualquer cliente, ele não entrará no cálculo do imposto. 
+Usei um cupom de desconto na minha compra, o imposto cobrado e sobre o valor descontado?","Se você fez uma compra com desconto, e esse desconto for incondicional e válido para qualquer cliente, ele não entrará no cálculo do imposto. 
 
 Porém, isso não vale para desconto referente a programas de fidelidade ou de milhas, por exemplo.
 
@@ -1987,7 +1988,7 @@ Tenho isencao na importacao de CDs de musica
 Tenho uma colecao de revistas coreanas e fiz uma compra mas não foi liberada pela fiscalizacao
 Na minha compra haviam livros e alguns itens de presente que nao tem muito valor mas fui taxado pelo valor total incluindo o valor dos livros
 comprei um livro na amazon americana e recebi cobranca de imposto
-e os livros";"Não é cobrado imposto de importação de:
+e os livros","Não é cobrado imposto de importação de:
 
 • livros;
 • jornais;
@@ -2108,7 +2109,7 @@ fui taxado sobre 100 USD
 nao esperava pagar imposto sobre uma compra inferior a cem
 tributacao de encomenda de ate U$100
 podem fiscalizar se valor for ate 100 dolares
-valor nao passou de U$100,00 mas foi taxado";"Notícias divulgadas na mídia sobre a suposta isenção do Imposto de Importação de bens contidos em encomendas de valor até cem dólares baseiam-se em decisões judiciais isoladas e sem efeito vinculante sobre a Administração Tributária. 
+valor nao passou de U$100,00 mas foi taxado","Notícias divulgadas na mídia sobre a suposta isenção do Imposto de Importação de bens contidos em encomendas de valor até cem dólares baseiam-se em decisões judiciais isoladas e sem efeito vinculante sobre a Administração Tributária. 
 
 Veja <a href='https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2014/fevereiro/nota-tecnica-limite-de-isencao-em-remessas-de-pequeno-valor' >aqui a posição oficial da Receita sobre o assunto</a>."
 "produto veio quebrado
@@ -2167,7 +2168,7 @@ exportação temporária para conserto
 taxaram de novo mas é o mesmo objeto que trocaram pelo defeituoso
 quero consertar um produto importado que comprei, quando retornar ao Brasil pagarei novo imposto?
 exportacao para conserto e importacao de outro para substituir
-como fazer para comprovar que já paguei a taxa quando recebi o equipamento da primeira vez mas não funcionou e tive que trocar";"Você pode enviar produto para conserto ou troca por outro no exterior utilizando o regime de exportação temporária para aperfeiçoamento passivo.
+como fazer para comprovar que já paguei a taxa quando recebi o equipamento da primeira vez mas não funcionou e tive que trocar","Você pode enviar produto para conserto ou troca por outro no exterior utilizando o regime de exportação temporária para aperfeiçoamento passivo.
 
 <b>Haverá tributação caso seja incorporado um ou mais bens ao produto objeto de conserto, ou caso seja importado um novo bem em substituição.</b>
 
@@ -2455,7 +2456,7 @@ pedido de reavaliação de tarifa
 pedido de reavaliacao de tarifa
 pedido de reconsideração
 pedido de reconsideracao
-recorrer ao imposto indevido";"Se você não concorda com o valor cobrado de imposto, apresente o Pedido de Revisão antes de pagar o tributo. 
+recorrer ao imposto indevido","Se você não concorda com o valor cobrado de imposto, apresente o Pedido de Revisão antes de pagar o tributo. 
 
 <b>O pedido só poderá ser apresentado uma única vez para cada encomenda. </b>
 
@@ -2560,7 +2561,7 @@ Quero a revisao dos valores pagos
 Quero meu dinheiro de volta, como faco? 
 Quero recuperar o valor pago para a Receita pois nao foi justo
 Tenho documentos que comprovam que o valor do objeto era bem menor do que o que foi considerado para o calculo do imposto pago, como peco uma nova analise?
-Tinha urgencia em receber meu pacote pois se tratava de medicamento, mas sei que tenho isencao e quero pedir a devolucao do que paguei.";"A restituição de impostos vinculados à <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/declaracao#DIR' > Declaração de Importação de encomenda (DIR)</a> pode ser requerida se houver cancelamento ou retificação da DIR.
+Tinha urgencia em receber meu pacote pois se tratava de medicamento, mas sei que tenho isencao e quero pedir a devolucao do que paguei.","A restituição de impostos vinculados à <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/declaracao#DIR' > Declaração de Importação de encomenda (DIR)</a> pode ser requerida se houver cancelamento ou retificação da DIR.
 
 Apresente o pedido de cancelamento ou retificação da DIR em qualquer unidade de atendimento da Receita Federal acompanhado dos documentos abaixo. Também é possível o atendimento online através do Chat RFB ou da Caixa Corporativa de algumas unidades. <a href='https://www.gov.br/receitafederal/pt-br/canais_atendimento' >Verifique aqui a disponibilidade e horários dos canais de atendimento</a>.
 
@@ -2638,7 +2639,7 @@ impostos sobre a importacao de remedio
 medicacao importada e taxada
 meu médico receitou suplementos que encontro com melhor preco nos sites americanos posso comprar sem pagar taxas
 a Anvisa precisa liberar a importacao de medicamentos
-Outra pessoa pode importar o remedio para mim";"Não é cobrado imposto sobre remédios importados por pessoa física para uso humano, próprio ou individual, até o limite de US$ 10.000,00 (dez mil dólares). Essa isenção não se aplica a importações de medicamentos destinados ao uso veterinário, suplementos e cosméticos.
+Outra pessoa pode importar o remedio para mim","Não é cobrado imposto sobre remédios importados por pessoa física para uso humano, próprio ou individual, até o limite de US$ 10.000,00 (dez mil dólares). Essa isenção não se aplica a importações de medicamentos destinados ao uso veterinário, suplementos e cosméticos.
 
 A importação de remédios depende de liberação da <a href='https://www.gov.br/anvisa/pt-br/assuntos/paf/importacao' target='_blank' >Agência Nacional de Vigilância Sanitária (ANVISA)</a>.
 
@@ -2699,7 +2700,7 @@ Preciso encomendar algumas amostras Serei taxado
 Recebi uma encomenda de amostra sem valor comercial e estao me cobrando imposto como resolver
 Sempre recebo amostras de meus novos fornecedores mas desta vez a remessa foi tributada por que razao
 Tenho uma empresa e quero receber amostras para conhecer o produto antes da compra e permitido
-Um fornecedor quer enviar amostras de graca como ter certeza de que nao serei taxado";"Não é cobrado Imposto de Importação sobre amostras sem valor comercial, que cheguem ao país por encomenda internacional.
+Um fornecedor quer enviar amostras de graca como ter certeza de que nao serei taxado","Não é cobrado Imposto de Importação sobre amostras sem valor comercial, que cheguem ao país por encomenda internacional.
 
 Para ser considerada sem valor comercial, a amostra deve conter quantidade, fragmentos ou partes suficientes apenas para avaliar a natureza, espécie e qualidade do produto.
 
@@ -2820,7 +2821,7 @@ vendi para a arabia mas o pais está em guerra e o correio vai devolver
 vendi para a arábia mas o país está em guerra e o correio vai devolver
 Vendi um game por um site internacional mas o interessado devolveu, tenho que pagar imposto?
 Vendi um produto para o exterior e foi devolvido, na fiscalizacao cobraram o imposto de importacao, está correto?
-Vendi um produto para o exterior e foi devolvido, na fiscalização cobraram o imposto de importação, está correto?";"Não será cobrado imposto de importação se você enviou um produto ao exterior e ele foi devolvido por um dos motivos abaixo:
+Vendi um produto para o exterior e foi devolvido, na fiscalização cobraram o imposto de importação, está correto?","Não será cobrado imposto de importação se você enviou um produto ao exterior e ele foi devolvido por um dos motivos abaixo:
 
 • enviada em consignação e não vendida no prazo autorizado;
 • defeito técnico, para reparo ou para substituição;
@@ -2931,7 +2932,7 @@ sofri golpe, quero registrar um BO
 sofri golpe, quero registrar uma ocorrência
 sofri golpe, quero registrar uma ocorrencia
 fraude
-tentativa de estelionato";"A Receita Federal nunca liga ou manda mensagens para cobrar o pagamento para a liberação de mercadorias. 
+tentativa de estelionato","A Receita Federal nunca liga ou manda mensagens para cobrar o pagamento para a liberação de mercadorias. 
 
 O pagamento dos tributos pelo responsável da encomenda é feito pelos canais oficiais dos Correios ou empresas autorizadas de courier, o repasse aos cofres públicos é feito pelas transportadoras.
 
@@ -3120,7 +3121,7 @@ Juro que nao trouxe nada perigoso
 nao fui avisado que era proibido receber este tipo de produto
 nao autorizacao para receber a encomenda
 proibicao de importacao
-despacho de arma de fogo";"Você pode importar ou exportar qualquer bem que não seja proibido pela legislação. Se importar algo proibido, sua encomenda poderá ser apreendida.
+despacho de arma de fogo","Você pode importar ou exportar qualquer bem que não seja proibido pela legislação. Se importar algo proibido, sua encomenda poderá ser apreendida.
 
 Lembre-se que para que a sua encomenda siga o regime de tributação simplificada (RTS), o valor não pode ser superior a US$ 3.000,00 (três mil dólares) ou o equivalente em outra moeda. <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/restricoes-proibicoes#restricoes' >Veja outros casos em que  não poderá usar o RTS</a>.
 
@@ -3178,7 +3179,7 @@ os itens eram para uso pessoal e nao para revender
 classificaram para fins de comercio mas foi uma compra conjunta entre amigos
 informaram o meu nome como destinatario mas era para vir no nome da empresa
 quero montar uma loja e comprar produtos importados para vender
-importacao para venda";"Pessoa Física não pode importar com finalidade comercial e/ou industrial.
+importacao para venda","Pessoa Física não pode importar com finalidade comercial e/ou industrial.
 
 Se a encomenda foi declarada em nome de pessoa física mas o destinatário for uma pessoa jurídica, é possível retificar a declaração para o nome da pessoa jurídica vinculada. Neste caso, a encomenda pode ser retida para esclarecimentos e pode haver penalidade. 
 
@@ -3279,7 +3280,7 @@ trata-se de objetos velhos, de segunda mao que nao devem ser taxados
 e um eletronico mas estava usado
 o preco foi menor porque comprei em um site de artigos usados
 posso trazer um game que não é novo?
-as roupas não eram novas e foram doadas";"Somente podem ser importados por meio da Declaração de Importação de encomenda (DIR) os bens usados:
+as roupas não eram novas e foram doadas","Somente podem ser importados por meio da Declaração de Importação de encomenda (DIR) os bens usados:
 
 • de uso ou consumo pessoal integrantes de bagagem desacompanhada (se não foi feita a opção pelo Regime de Tributação Especial sobre Bagagem);
 • exportados temporariamente, na forma prevista no <a href='http://normas.receita.fazenda.gov.br/sijut2consulta/link.action?visao=anotado&idAto=86226' target='_blank'' >art. 75 da IN RFB nº 1.737/2017</a>, que retornem ao País;
@@ -3322,7 +3323,7 @@ Quero importar pecas para o meu carro como faco
 Quero saber se sera liberada uma encomenda de peca para a minha motocicleta 
 Quero vender pecas de moto A Receita vai liberar
 Tenho uma loja de revenda de pecas automotivas posso importar pecas por remessa para revender
-Tenho uma oficina e queria comprar em site internacional algumas pecas para os meus clientes e possivel";"Pessoa Física pode importar partes e peças para veículos automotores, desde que para uso de veículo próprio.
+Tenho uma oficina e queria comprar em site internacional algumas pecas para os meus clientes e possivel","Pessoa Física pode importar partes e peças para veículos automotores, desde que para uso de veículo próprio.
 
 Pessoa Jurídica pode importar partes e peças para comércio ou industrialização."
 "Como declaro importacao de software
@@ -3353,7 +3354,7 @@ Na importacao de software esta correto que o imposto não e cobrado sobre o valo
 Na remessa internacional contendo software incide imposto sobre o software e o meio fisico (CD ou DVD)
 Preciso importar um software como devo fazer a declaracao
 Quando importo um software o imposto e calculado de acordo com o valor do software ou somente pelo valor do meio fisico
-Quero importar um programa/software pagarei alguma taxa";"Para importar softwares, sem finalidade comercial, você deverá informar separadamente na fatura:
+Quero importar um programa/software pagarei alguma taxa","Para importar softwares, sem finalidade comercial, você deverá informar separadamente na fatura:
 
 • o valor do meio físico (CDs ou DVDs) e 
 • o valor do trabalho intelectual (conteúdo do software).
@@ -3477,7 +3478,7 @@ quero mudar o numero do codigo postal
 esqueceram de preencher o zip code
 o nome da rua veio errado
 o fornecedor nao escreveu certo o endereco
-faltou o numero do apto";"Encomenda Postal: alteração de endereço precisa ser solicitada ao remetente antes do envio, pois esta informação deve constar no documento que acompanhará a encomenda. Se a encomenda for enviada com endereço incorreto ou incompleto, poderá ser devolvida à origem. 
+faltou o numero do apto","Encomenda Postal: alteração de endereço precisa ser solicitada ao remetente antes do envio, pois esta informação deve constar no documento que acompanhará a encomenda. Se a encomenda for enviada com endereço incorreto ou incompleto, poderá ser devolvida à origem. 
 
 Encomenda Expressa: alteração de endereço pode ser solicitada à empresa pelo remetente.
 
@@ -3576,7 +3577,7 @@ Preciso ter CPF para importar
 Preciso ter CNPJ para importar
 Posso importar sem ter CPF
 declaração de conteúdo
-declaracao de conteudo";"Para evitar atrasos ou devolução da encomenda, é necessário informar nos <b>dados do destinatário</b> todas as informações abaixo:
+declaracao de conteudo","Para evitar atrasos ou devolução da encomenda, é necessário informar nos <b>dados do destinatário</b> todas as informações abaixo:
 
 • número do CPF ou, se pessoa física estrangeira, o número do passaporte;
 • número do CNPJ, se pessoa jurídica;
@@ -3662,7 +3663,7 @@ Correcao dos dados
 Alteracao das informacoes da remessa
 Informacao errada no envio
 Consertar os erros na declaracao de importacao
-Corrigir descricao dos produtos";"Antes da apresentação da encomenda à fiscalização, ou seja, do registro da <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/declaracao#DIR' >Declaração de Importação de encomenda (DIR)</a> pelos correios ou transportadora, você pode pedir a retificação de informações ao Correio ou empresa de encomenda Expressa.
+Corrigir descricao dos produtos","Antes da apresentação da encomenda à fiscalização, ou seja, do registro da <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/declaracao#DIR' >Declaração de Importação de encomenda (DIR)</a> pelos correios ou transportadora, você pode pedir a retificação de informações ao Correio ou empresa de encomenda Expressa.
 
 Após o registro da DIR, a encomenda poderá sofrer penalidade se houver informações divergentes.
 
@@ -4047,7 +4048,7 @@ preciso da liberacao do pacote
 rejeição de documentação
 rejeicao de documentacao
 Solicitação de Liberação de Carga Internacional 
-Solicitacao de Liberacao de Carga Internacional ";"A maioria das encomendas é liberada pela Receita Federal no mesmo dia em que são submetidas à fiscalização, exceto se houver:
+Solicitacao de Liberacao de Carga Internacional ","A maioria das encomendas é liberada pela Receita Federal no mesmo dia em que são submetidas à fiscalização, exceto se houver:
 
 • fiscalização de outros órgãos (Anvisa, Ibama, Exército, etc.);
 • exigências fiscais. Nesse caso, o prazo dependerá do destinatário da encomenda atender ao que foi solicitado.
@@ -4128,7 +4129,7 @@ Meu objeto esta em Fiscalizacao pela Receita Estadual
 Por que minha compra nacional esta presa nos Correios ? 
 PRODUTO ENVIADO PELO CORREIO ATRAVES DO MERCADO LIVRE E RETIDO PELA RECEITA FEDERAL
 vendi pelo Mercado Livre mas parou na fiscalizacao
-fiz uma venda no ML mas ficou retida pelos Orgaos Fiscalizadores";"A fiscalização de encomendas Postais Internacionais ocorre apenas em São Paulo, Rio de Janeiro e Curitiba.
+fiz uma venda no ML mas ficou retida pelos Orgaos Fiscalizadores","A fiscalização de encomendas Postais Internacionais ocorre apenas em São Paulo, Rio de Janeiro e Curitiba.
 
 Entretanto, encomendas Nacionais ou nacionalizadas podem ser fiscalizadas em qualquer região do país. Caso sua encomenda nacional esteja em fiscalização, <a href='https://www.correios.com.br/falecomoscorreios/central-de-atendimento' target='_blank' >entre em contato com os Correios</a> para mais informações.
 
@@ -4171,7 +4172,7 @@ nao tenho os comprovantes para apresentar para a Receita
 o que significa exigencia nao atendida
 fiz tudo o que me pediram mas nao foi liberado
 falta de cumprimento de exigencia
-nao atendi ao que foi pedido pela fiscalizacao";"Se você não enviou as informações pedidas pela fiscalização, sua encomenda pode receber pena de perdimento. 
+nao atendi ao que foi pedido pela fiscalizacao","Se você não enviou as informações pedidas pela fiscalização, sua encomenda pode receber pena de perdimento. 
 
 Entre em contato com a transportadora para saber se você pode solicitar a retomada de despacho.
 
@@ -4227,7 +4228,7 @@ Objeto em analise de destinacao - podera ser devolvido ao remetente, encaminhado
 Posso perder minha compra se a instrucao do remetente foi de nao devolver?
 Remessa considerada abandonada pela fiscalizacao aduaneira.
 Se a devolucao nao for permitida, o que acontece com o meu objeto?
-So pude verificar minha encomenda agora, mas ja faz 4 meses que ela chegou. ";"Se você perdeu os prazos de pagamento e atendimento às exigências e sua encomenda não está em situação de Devolução, ocorre o Abandono.
+So pude verificar minha encomenda agora, mas ja faz 4 meses que ela chegou. ","Se você perdeu os prazos de pagamento e atendimento às exigências e sua encomenda não está em situação de Devolução, ocorre o Abandono.
 
 Casos de Abandono da encomenda:
 
@@ -4302,7 +4303,7 @@ Por que minha encomenda esta em perdimento ?
 Por que estou sendo penalizado com perdimento se o exportador e que declarou a mercadoria?
 nao sabia que o item era falso
 o fornecedor disse que declarou um valor baixo para nao ter imposto
-Acho que o item que comprei e falsificado, vou receber?";"No caso das encomendas internacionais, são frequentes as seguintes penalidades (aplicáveis separada ou cumulativamente):
+Acho que o item que comprei e falsificado, vou receber?","No caso das encomendas internacionais, são frequentes as seguintes penalidades (aplicáveis separada ou cumulativamente):
 
 • multas;
 • perdimento de mercadoria; e
@@ -4442,7 +4443,7 @@ enviei a mudanca mas nao recebi as caixas
 bagajem e taxada?
 nao quero pagar nada pois e mudanca
 trataram como compra mas foi minha mudanca que chegou
-estou de volta ao país e vou receber meus bens via postal";"Para ser considerada bagagem desacompanhada, a encomenda deve:
+estou de volta ao país e vou receber meus bens via postal","Para ser considerada bagagem desacompanhada, a encomenda deve:
 
 • vir de local onde você esteve ou morou e
 • chegar ao país 3 meses antes ou até 6 meses depois da sua chegada.
@@ -4570,7 +4571,7 @@ Sou fotógrafo e morei no exterior, já voltei para o Brasil mas um amigo vai me
 Numa viagem ao exterior, esqueci meu celular no hotel. Se ele for enviado por remessa postal, serei taxado?
 Tenho pertences que ficaram esquecidos no hotel em que me hoospedei em outro pais, eles podem enviar pelos Correios sem cobrança de impostos?
 Tenho pertences que ficaram esquecidos no hotel em que me hoospedei em outro país, eles podem enviar pelos Correios sem cobrança de impostos?
-Em viagem internacional, esqueci meu celular no hotel. Serei taxado se o hotel devolver por remessa internacional?";"<a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/nao-tributacao#bagagem' >Clique aqui e veja se o objeto se enquadra em algum tipo de isenção</a>.
+Em viagem internacional, esqueci meu celular no hotel. Serei taxado se o hotel devolver por remessa internacional?","<a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/nao-tributacao#bagagem' >Clique aqui e veja se o objeto se enquadra em algum tipo de isenção</a>.
 
 Caso a encomenda seja tributada, <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/Procedimentos#Revisao' > você pode entrar com pedido de revisão</a>, antes do pagamento dos tributos, anexando toda a documentação que comprove a condição de bagagem."
 "Como apresentar os comprovantes de que morei no exterior para ter isenção?
@@ -4655,7 +4656,7 @@ comprovantes da mudanca
 Que documentos preciso entregar se trata de bens pessoais, que vieram na minha mudanca?
 apresentacao de documentos que caracterizem bens de mudanca para o Brasil
 não tenho documentos de bagagem
-nao tenho documentos de bagagem";"Para ter reconhecida a <b>isenção para bagagem desacompanhada de viajantes procedentes do exterior</b>, <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/Perguntas_e_Respostas#P11.3' >veja aqui a lista de documentos que deverá apresentar, de acordo com a situação da viagem</a>.  
+nao tenho documentos de bagagem","Para ter reconhecida a <b>isenção para bagagem desacompanhada de viajantes procedentes do exterior</b>, <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/Perguntas_e_Respostas#P11.3' >veja aqui a lista de documentos que deverá apresentar, de acordo com a situação da viagem</a>.  
 
 Caso a bagagem tenha vindo pelos Correios, <a href='https://www.correios.com.br/receber/encomenda/internacional' target='_blank' >apresente os documentos no site dos Correios – módulo Minhas Importações</a>  .  
 
@@ -4754,7 +4755,7 @@ vou receber um diploma por remessa internacional tera cobranca de imposto
 Vou pagar imposto se enviar minha certidao de casamento para o exterior
 documentos sao isentos
 correspondência tem isenção?
-correspondencia tem isencao";"Não há cobrança de imposto sobre documentos. No entanto, se a encomenda incluir outros itens, estes poderão ser tributados. 
+correspondencia tem isencao","Não há cobrança de imposto sobre documentos. No entanto, se a encomenda incluir outros itens, estes poderão ser tributados. 
 
 Se a descrição do conteúdo for genérica, a encomenda poderá ser tributada integralmente ou devolvida ao exterior.
 
@@ -4981,7 +4982,7 @@ direito de não ser cobrado
 Que bens são livres de imposto?
 Vou pagar se minha irmã me mandar uma lembrancinha de 15 dolares dos Estados Unidos pelos Correios?
 Vou receber uma lembrança de um amigo que custa 45 dolares. Vou pagar?
-Um amigo me enviou um brinquedo de 35 dolares para o meu filho do exterior pelos Correios. Vou ser cobrada pela Receita?";"O Imposto de Importação não é cobrado nos casos de:  
+Um amigo me enviou um brinquedo de 35 dolares para o meu filho do exterior pelos Correios. Vou ser cobrada pela Receita?","O Imposto de Importação não é cobrado nos casos de:  
 
 - Medicamentos importados por pessoa física.
 - Amostras sem valor comercial.
@@ -5082,7 +5083,7 @@ quero importar pelos Correios alguns itens para a minha loja
 compra internacional para empresa
 compra no atacado de produtos importados
 preciso de ajuda para importar 
-manual de importacao";"Orientações gerais sobre importação de encomendas internacionais podem ser obtidas no  <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa' >Manual de encomendas Internacionais</a> e com as transportadoras:
+manual de importacao","Orientações gerais sobre importação de encomendas internacionais podem ser obtidas no  <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa' >Manual de encomendas Internacionais</a> e com as transportadoras:
 
 - <a href='https://www.correios.com.br/receber/encomenda/saiba-mais-internacional' target='_blank' >Correios</a>.
 - <a href='https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/empresas-autorizadas-a-operar-na-modalidade-remessa-expressa' >Empresas de Courier habilitadas a operar com encomenda expressa</a>."
@@ -5172,7 +5173,7 @@ tudo que vier do exterior e tratado como produto importado?
 orientacao de encomendas importadas
 encomenda internacional
 o que e declaracao?
-o que e despacho?";"encomendas internacionais são bens ou documentos que chegam ou saem do Brasil transportados:
+o que e despacho?","encomendas internacionais são bens ou documentos que chegam ou saem do Brasil transportados:
 
 - pelos Correios, que são as encomendas postais; 
 - por empresas privadas de transporte expresso internacional, também conhecidas como empresas de courier, que são as encomendas expressas.  
@@ -5358,12 +5359,12 @@ Gostaria de saber quais impostos incidirão em um recebimento de valores dos EUA
 hipóteses de perdimento na zona secundária
 zona secundaria
 vai tomar
-Shein";"Não consegui entender, poderia perguntar novamente?
+Shein","Não consegui entender, poderia perguntar novamente?
 
 Tente usar outras palavras ou dar mais detalhes.
 
 Lembre-se que sei responder apenas sobre encomendas Internacionais e somente temas que são atribuição da Receita Federal."
-"";"Você está escrevendo de uma forma desrespeitosa ou preconceituosa. Todos devem ser tratados com respeito e educação. Mude seu jeito de falar e depois me chame."
+"","Você está escrevendo de uma forma desrespeitosa ou preconceituosa. Todos devem ser tratados com respeito e educação. Mude seu jeito de falar e depois me chame."
 "alterar cadastro
 vou comprar nas Americanas, preciso me cadastrar?
 registro
@@ -5410,7 +5411,7 @@ preciso de permissão para importar?
 permissao para receber produtos internacionais 
 como faço para importar legalmente pelos correios?
 preciso de permissao para importar?
-devo estra cadastrada em algum lugar para comprar de site internacional?";""Não é necessário nenhum cadastro prévio na Receita, nem mesmo habilitação ou DTE, para utilização dos Regimes de tributação:
+devo estra cadastrada em algum lugar para comprar de site internacional?",""Não é necessário nenhum cadastro prévio na Receita, nem mesmo habilitação ou DTE, para utilização dos Regimes de tributação:
 
  - Simplificada, que permite o pagamento do imposto de importação na alíquota única de 60%, na importação de bens contidos em encomenda internacional. 
 - Especial, que pode ser usado nos casos de bagagem que chegam ao país como encomenda internacional.   
@@ -5532,7 +5533,7 @@ Como receber um presente sem pagar imposto?
 Posso receber um presente da familia?
 Posso receber um presente da família?
 Fiz uma compra para presente
-Comprei no site internacional para dar de presente";""É indiferente, para a cobrança de imposto, se o bem foi recebido a título de presente. 
+Comprei no site internacional para dar de presente",""É indiferente, para a cobrança de imposto, se o bem foi recebido a título de presente. 
 
 Se a mercadoria não se enquadrar em algum caso de isenção, a encomenda não será isenta apesar de ser um presente.
 
@@ -5610,7 +5611,7 @@ preciso fazer uma consulta
 quero fazer uma pergunta
 preciso de esclarecimentos
 preciso de atendimento
-quem pode me atender?";"Olá! Como posso ajudar?"
+quem pode me atender?","Olá! Como posso ajudar?"
 "Pq tão me taxando agora se eu já tinha encomendado antes e não tinha sido cobrado por se tratar de mercadoria que não é taxada
 conferência
 conferencia
@@ -5681,6 +5682,6 @@ tive isenção antes e agora fui tributado
 a fiscalização não segue a mesma regra para todos?
 quero entender a diferença na tributação de duas remessas que recebi com o mesmo produto
 como são selecionadas as encomendam que são fiscalizadas?
-como funciona a seleção do que cai na fiscalização?";""Algumas encomendas podem não ter sido selecionadas para conferência pelas autoridades da Receita Federal.   
+como funciona a seleção do que cai na fiscalização?",""Algumas encomendas podem não ter sido selecionadas para conferência pelas autoridades da Receita Federal.   
 
 Porém, em até 5 anos, pode haver revisão aduaneira para apurar a regularidade da importação e, se for o caso, cobrado o imposto devido." "
